@@ -1,4 +1,3 @@
-
 from libs.neural_network import *
 from typing import Optional
 from fastapi import FastAPI, File, UploadFile, Request
